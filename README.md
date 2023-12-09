@@ -6,22 +6,6 @@
 
 </p>
 
-  
-
-> Web UI which allows a user to navigate through a folder structure(dummy) just like a normal desktop file system (Explorer in Windows and Finder in OSX)
-
-  
-## Screenshots
-<p  align="center">
-<img  src="https://res.cloudinary.com/grooot/image/upload/v1555215261/smallcase/2019-04-14_09.24.11.gif"  alt="fileSystem"  width="729px"/>
-</p>
-
-
-<p  align="center">
-<img  src="https://res.cloudinary.com/grooot/image/upload/v1555215066/smallcase/2019-04-14_09.30.55.gif"  alt="fileSystem-delete"  width="729px"/>
-</p>
-
-
 ## Features
 - Search implementation (local or global)
 - Modals are Draggable
